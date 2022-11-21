@@ -1,0 +1,23 @@
+# ninja log v5
+664	733	1668069416313614228	grph	b4d46709eb699910
+3	698	1668069406790840996	CMakeFiles/grph.dir/grph/graph/common/EdgesList.cpp.o	24d71e1dba11934c
+1	691	1668064907196444174	CMakeFiles/grph1.dir/main.cpp.o	750ba809132b3493
+1	59	1668064906568364027	CMakeFiles/grph1.dir/grph/graph/random/UndirectedRandomGraph.cpp.o	88f0e4a77f2417b0
+1	664	1668069416239856779	CMakeFiles/grph.dir/main.cpp.o	2412a9db0d2115cb
+3	754	1668064907260738413	CMakeFiles/grph1.dir/grph/graph/common/EdgesList.cpp.o	d236c9bf5b1d3819
+2	358	1668068935382709206	CMakeFiles/grph.dir/grph/graph/common/AdjacencyMatrix.cpp.o	baa7e60d4c8954c9
+2	49	1668069406143585124	CMakeFiles/grph.dir/grph/graph/common/AdjacencyList.cpp.o	bd00b3338ab07a5d
+2	388	1668064906895038787	CMakeFiles/grph1.dir/grph/graph/common/AdjacencyMatrix.cpp.o	e1f844efd7838dc8
+2	63	1668064906569611827	CMakeFiles/grph1.dir/grph/graph/common/AdjacencyList.cpp.o	6d5f48c0ab4271f5
+1	62	1668064929762762501	CMakeFiles/grph.dir/grph/graph/random/UndirectedRandomGraph.cpp.o	1b07344a0c7998dd
+1	2451	1668004100583842681	CMakeFiles/grph.dir/grph/graph/UndirectedGraph.cpp.o	f2d0daa52d70a77b
+0	178	1668711063909421209	build.ninja	566800b526fb150a
+1	877	1668711714095375071	CMakeFiles/grph.dir/grph/graph/random/UndirectedRandomGraph.cpp.o	1b07344a0c7998dd
+878	1308	1668711714530657034	grph	6a26f572a98394de
+3	819	1668714163379671904	CMakeFiles/grph.dir/main.cpp.o	2412a9db0d2115cb
+2	716	1668714315587019904	CMakeFiles/grph.dir/main.cpp.o	2412a9db0d2115cb
+2	890	1668714315760486013	CMakeFiles/grph.dir/grph/graph/random/UndirectedRandomGraph.cpp.o	1b07344a0c7998dd
+890	1072	1668714315949039071	grph	6a26f572a98394de
+2	707	1668714355793825171	CMakeFiles/grph.dir/main.cpp.o	2412a9db0d2115cb
+2	875	1668714355962713195	CMakeFiles/grph.dir/grph/graph/random/UndirectedRandomGraph.cpp.o	1b07344a0c7998dd
+875	962	1668714356054394312	grph	6a26f572a98394de
